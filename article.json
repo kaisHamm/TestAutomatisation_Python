@@ -1,0 +1,90 @@
+{
+    "rechercher_produit": {
+        "articles_existants": [
+            "Ampoule Vecteur Incandescent",
+            "Chaise de Bureau Ergonomique",
+            "JVC, Caque Supra-aural Pliable",
+            "I-phone PRO 256 NOIR",
+            "Chaussures Hommes de Ville en cuir marron",
+            "Smart Montre M6 Fitness Tracker Montre-bracelet",
+            "Yucca Elephantipes",
+            "Enceinte Bluetooth portable robuste",
+            "Machine ",
+            "Huawei P30 pro 9"
+        ],
+        "articles_inexistants": [
+            "Velo electrique futuriste",
+            "Livre de cuisine intergalactique",
+            "Robot jardinier autonome"
+        ]
+    },
+    "create_account": {
+        "success": {
+            "email": "iqxrcrav@example.com",
+            "password": "ecqbtyhbep"
+        },
+        "invalid_email": {
+            "email": "email_invalide.com",
+            "password": "MotDePasseValide123"
+        },
+        "short_password": {
+            "email": "exemple_valide@email.com",
+            "password": "court"
+        }
+    },
+    "login": {
+        "existants": [
+            {
+                "email": "kp@gmail.com",
+                "mdp": "pnrvggtoeq"
+            },
+            {
+                "email": "ki@gmail.com",
+                "mdp": "mpqzfmhiee"
+            },
+            {
+                "email": "mam1@gmail.com",
+                "mdp": "kxsfqjapeh"
+            },
+            {
+                "email": "km@gmail.com",
+                "mdp": "zpcsltekgk"
+            }
+        ],
+        "inexistants": [
+            {
+                "email": "utilisateur_inexistant@example.com",
+                "mdp": "passwordInconnu123"
+            }
+        ]
+    },
+    "utilisateur_infos": [
+        {
+            "nom": "Dupont",
+            "prenom": "Alexandre",
+            "adresse": "123 Rue de la Republique, 75001 Paris",
+            "numero_telephone": "612345678",
+            "adresse_facturation": "123 Rue de la Republique, 75001 Paris",
+            "adresse_livraison": "321 Avenue des Champs, 75008 Paris",
+            "civilite": "Monsieur"
+        },
+        {
+            "nom": "Durand",
+            "prenom": "Julie",
+            "adresse": "456  des Ormes, 13000 Marseille",
+            "numero_telephone": "698765432",
+            "adresse_facturation": "456 All des Ormes, 13000 Marseille",
+            "adresse_livraison": "654 Place de la Liberte, 33000 Bordeaux",
+            "civilite": "Monsieur"
+        },
+        {
+            "nom": "Martin",
+            "prenom": "Camille",
+            "adresse": "789 Boulevard du Gu, 69000 Lyon",
+            "numero_telephone": "671829456",
+            "adresse_facturation": "789 Boulevard du Gu, 69000 Lyon",
+            "adresse_livraison": "987 Rue des ecoles, 44000 Nantes",
+            "civilite": "Monsieur"
+        }
+    ]
+}
